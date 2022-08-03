@@ -1,0 +1,17 @@
+
+.button {
+    -fx-background-color : grey ;
+    -fx-text-fill : white ;
+}
+
+.text {
+    -fx-font : normal bold 20px 'arial' ;
+}
+
+#grid-pane {
+    -fx-background-color : ALICEBLUE ;
+}
+
+.titled-pane {
+    -fx-font : normal bold 50px 'arial' ;
+}
